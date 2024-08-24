@@ -1,0 +1,14 @@
+D:\C#\TicTacToeOOP\bin\Debug\net8.0\TicTacToeOOP.exe
+D:\C#\TicTacToeOOP\bin\Debug\net8.0\TicTacToeOOP.deps.json
+D:\C#\TicTacToeOOP\bin\Debug\net8.0\TicTacToeOOP.runtimeconfig.json
+D:\C#\TicTacToeOOP\bin\Debug\net8.0\TicTacToeOOP.dll
+D:\C#\TicTacToeOOP\bin\Debug\net8.0\TicTacToeOOP.pdb
+D:\C#\TicTacToeOOP\obj\Debug\net8.0\TicTacToeOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TicTacToeOOP\obj\Debug\net8.0\TicTacToeOOP.AssemblyInfoInputs.cache
+D:\C#\TicTacToeOOP\obj\Debug\net8.0\TicTacToeOOP.AssemblyInfo.cs
+D:\C#\TicTacToeOOP\obj\Debug\net8.0\TicTacToeOOP.csproj.CoreCompileInputs.cache
+D:\C#\TicTacToeOOP\obj\Debug\net8.0\TicTacToeOOP.dll
+D:\C#\TicTacToeOOP\obj\Debug\net8.0\refint\TicTacToeOOP.dll
+D:\C#\TicTacToeOOP\obj\Debug\net8.0\TicTacToeOOP.pdb
+D:\C#\TicTacToeOOP\obj\Debug\net8.0\TicTacToeOOP.genruntimeconfig.cache
+D:\C#\TicTacToeOOP\obj\Debug\net8.0\ref\TicTacToeOOP.dll
